@@ -41,15 +41,6 @@ Save only:
 Adding support for additional formats is really easy too. If you do add support
 for a new format please let me know and send me a copy of the code!
 
-
-Distribution
-------------
-Links may also be found at the following two sites:
-
-ClrMamePro Home Page            RomCenter Home Page        
-http://www.clrmame.com/   http://www.romcenter.com/
-
-
 Basic Conversion
 ----------------
 
